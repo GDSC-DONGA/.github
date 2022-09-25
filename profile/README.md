@@ -1,4 +1,4 @@
-﻿Welcome to the GDSC Dong-a
+### ﻿Welcome to the GDSC Dong-a
 
 GDSC DAU aims to create a development community that does not exist in Dong-A University, to provide opportunities to many student developers in various fields, and ultimately to think and solve social problems.
 
