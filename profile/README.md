@@ -4,4 +4,6 @@
 
 For first-time visitors, please read the [Code of Conduct📃](https://knowing-marscapone-3ed.notion.site/GDSC-DAU-CoC-17d359be9f75410cad1bf6c65dbf2f18)!
 
-[instagram](https://www.instagram.com/gdsc_dau/)  [notion blog](https://www.notion.so/b60269be149643e4b15ce3d5dd3f7b81) [git blog]
+[instagram](https://www.instagram.com/gdsc_dau/)  <br>
+[notion blog](https://www.notion.so/b60269be149643e4b15ce3d5dd3f7b81) <br> 
+[git blog] <br>
